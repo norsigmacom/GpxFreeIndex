@@ -12,6 +12,6 @@ We all now that the apps that we use and love, like strava and wikiloc etc will 
   - Gravel
   - Road
 
-# Register free on github and create issue to import a new gpx file
+# Register free on github and create an issue to import a new gpx file
 
 Built with 💚 for the community!
